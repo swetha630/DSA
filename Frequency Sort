@@ -1,0 +1,10 @@
+Q: You are given an array of integers. Sort them by frequency
+
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    freq={}
+    for i in l:
+        freq[i]=freq.get(i,0)+1
+    print(*(sorted(l,key=lambda x:(freq[x],x))))
