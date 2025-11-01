@@ -1,0 +1,13 @@
+Q:Delete Nodes From Linked List Present in Array
+class Solution:
+    def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
+        temp=ListNode(0)
+        temp.next=head
+        curr=temp
+        s=set(nums)
+        while curr and curr.next:
+            if curr.next.val in s:
+                curr.next=curr.next.next
+            else:
+                curr=curr.next
+        return temp.next
