@@ -1,0 +1,8 @@
+Q:Given a string that can have duplicate characters, find its rank (position) in all the permutations of the string when sorted lexicographically.
+
+Basic approach:
+from itertools import permutations
+s=input()
+l=sorted(set(''.join(p) for p in permutations(s)))
+r=l.index(s)+1
+print(r)
