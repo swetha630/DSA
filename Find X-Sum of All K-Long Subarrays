@@ -1,0 +1,31 @@
+Q:You are given an array nums of n integers and two integers k and x.The x-sum of an array is calculated by the following procedure:
+1)Count the occurrences of all elements in the array.
+2)Keep only the occurrences of the top x most frequent elements. If two elements have the same number of occurrences, the element with the bigger value is considered more frequent.
+3)Calculate the sum of the resulting array.
+Note that if an array has less than x distinct elements, its x-sum is the sum of the array.Return an integer array answer of length n - k + 1 where answer[i] is the x-sum of the subarray nums[i..i + k - 1].
+
+SOLUTION:
+from typing import List
+from collections import Counter
+class Solution:
+    def findXSum(self, nums: List[int], k: int, x: int) -> List[int]:
+        n = len(nums)
+        ans = []
+        for i in range(n - k + 1):
+            sub = nums[i:i + k]
+            sl = set(sub)
+            if len(sl) < x:
+                ans.append(sum(sub))
+                continue
+            freq = {}
+            for val in sub:
+                if val in freq:
+                    freq[val] += 1
+                else:
+                    freq[val] = 1
+            sorted_freq = sorted(freq.items(), key=lambda item: (item[1], item[0]), reverse=True)
+            top_x = set([num for num, _ in sorted_freq[:x]])
+            total = sum([num for num in sub if num in top_x])
+            ans.append(total)
+
+        return ans
