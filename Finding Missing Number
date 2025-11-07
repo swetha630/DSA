@@ -1,0 +1,14 @@
+Given an array of size N, it contains all the numbers from 1 to N+1 inclusive, except one number. You have to find the missing number.
+Input Format
+The first line of input contains T - the number of test cases. It is followed by 2T lines, the first line of each test case contains N - size of the array and the next line contains N integers - the elements of the array.
+
+SOLUTION:
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+t=int(input())
+for i in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    se=(n+1)*(n+2)//2
+    sa=sum(l)
+    print(se-sa)
