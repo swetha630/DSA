@@ -1,0 +1,40 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+class Node:
+    def __init__(self,data):
+        self.data=data
+        self.left=None
+        self.right=None
+def insert(root,data):
+    if root is None:
+        return Node(data)
+    elif data>root.data:
+        root.right=insert(root.right,data)
+    elif data<root.data:
+        root.left=insert(root.left,data)
+    return root
+def build(l):
+    root=None
+    for x in l:
+        root=insert(root,x)
+    return root
+def check(root):
+    if root is None:
+        return 0
+    lft=check(root.left)
+    if lft==-1:
+        return -1
+    rgt=check(root.right)
+    if rgt==-1:
+        return -1 
+    if abs(rgt-lft)>1:
+        return -1
+    return max(lft,rgt)+1
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    root=build(l)
+    if(check(root)!=-1):
+        print("Yes")
+    else:
+        print("No")
