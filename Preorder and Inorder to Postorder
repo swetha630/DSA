@@ -1,0 +1,20 @@
+The first line of input contains T - the number of test cases. It's followed by 3T lines. The first line of each test case contains N - the number of nodes in the BST. The second line contains N unique integers denoting the preorder traversal of the tree. The third line contains N unique integers denoting the inorder traversal of the tree.
+
+def post(pre,i,l,h):
+    global idx
+    if(l>h):
+        return 
+    pos=i_idx[pre[idx]]
+    idx+=1
+    post(pre,i,l,pos-1)
+    post(pre,i,pos+1,h)
+    print(i[pos],end=" ")
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    pre=list(map(int,input().split()))
+    i=list(map(int,input().split()))
+    idx=0
+    i_idx={val:i for i,val in enumerate(i)}
+    post(pre,i,0,n-1)
+    print()
