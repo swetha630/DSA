@@ -1,0 +1,28 @@
+Given an array of unique elements, construct a Binary Search Tree and for every node, print the depth of that node.
+Input Format
+The first line of input contains T - the number of test cases. It is followed by 2T lines. The first line of each test case contains N - the number of nodes in the BST. The next line contains N unique integers - value of the nodes.
+
+
+class Node:
+    def __init__(self,data):
+        self.data=data
+        self.left=None
+        self.right=None
+def insert(root,data,dl,d):
+    if root is None:
+        dl.append(d)
+        return Node(data)
+    if root.data<data:
+        root.right=insert(root.right,data,dl,d+1)
+    else:
+        root.left=insert(root.left,data,dl,d+1)
+    return root
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    root=None
+    dl=[]
+    for i in l:
+        root=insert(root,i,dl,0)
+    print(*dl)
