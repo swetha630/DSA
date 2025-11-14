@@ -1,0 +1,42 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+from collections import deque
+class Node:
+    def __init__(self,data):
+        self.data=data
+        self.left=None
+        self.right=None 
+def insert(root,data):
+    if root is None:
+        return Node(data)
+    if(data>root.data):
+        root.right=insert(root.right,data)
+    else:
+        root.left=insert(root.left,data)
+    return root 
+def build(l):
+    root=None
+    for i in l:
+        root=insert(root,i)
+    return root 
+def leftvw(root):
+    if not root:
+        return 
+    q=deque()
+    q.append(root)
+    while q:
+        l=len(q)
+        for i in range(l):
+            node=q.popleft()
+            if i==0:
+                print(node.data,end=" ")
+            if node.left:
+                q.append(node.left)
+            if node.right:
+                q.append(node.right)
+    print()
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    root=build(l)
+    leftvw(root)
