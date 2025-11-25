@@ -1,0 +1,40 @@
+Given 2 binary strings A and B of the same length, find the minimum number of operations needed to change string A to B. The operations are defined as follows:
+
+AND Operation:
+Choose a pair of indices i and j such that i != j and perform the following sequence of operations.result = Ai & AjAi = result & AiAj = result & Aj
+OR Operation:
+Choose a pair of indices i and j such that i != j and perform the following sequence of operations.result = Ai | AjAi = result | AiAj = result | Aj
+XOR Operation:
+Choose a pair of indices i and j such that i != j and perform the following sequence of operations.result = Ai ^ AjAi = result ^ AiAj = result ^ Aj
+Input Format
+The first line of input contains T - the number of test cases. It's followed by 2T lines, the first line contains string A and the second line contains string B.
+
+CODE:
+
+from collections import Counter
+t=int(input())
+for _ in range(t):
+    a=input()
+    b=input()
+    if a==b:
+        print("YES 0")
+        continue
+    cnt01=0
+    cnt10=0
+    for i in range(len(a)):
+        if a[i]!=b[i]:
+            if(a[i]=='0' and b[i]=='1'):
+                cnt01+=1
+            if(a[i]=='1' and b[i]=='0'):
+                cnt10+=1
+    if cnt01>0 and a.count('1')==0:
+        print("NO")
+        continue
+    if cnt10>0 and a.count('0')==0:
+        print("NO")
+        continue 
+    xr=min(cnt01,cnt10)
+    rem01=cnt01-xr 
+    rem10=cnt10-xr
+    cnt=xr+rem01+rem10
+    print("YES",cnt)
