@@ -1,0 +1,17 @@
+You are given the lengths of N rods. You want to connect all the rods to form a single rod. The cost of connecting 2 rods of lengths: L1 and L2 is L1+L2. The resultant rod will also be of size L1+L2. Your task is to find the minimum cost to connect all the rods.
+
+CODE
+import heapq
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    heapq.heapify(l)
+    tot=0
+    while len(l)>1:
+        a=heapq.heappop(l)
+        b=heapq.heappop(l)
+        curr=a+b 
+        tot+=curr
+        heapq.heappush(l,curr)
+    print(tot) 
