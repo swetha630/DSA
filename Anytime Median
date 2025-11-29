@@ -1,0 +1,24 @@
+Given an integer array, print the median for the sub-array 0 to i, for every i, 0 <= i <= N-1.
+
+import heapq
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    mxh=[]
+    mnh=[]
+    ans=[]
+    for ele in l:
+        if not mxh or ele<=-mxh[0]:
+            heapq.heappush(mxh,-ele)
+        else:
+            heapq.heappush(mnh,ele) 
+        if len(mxh)>len(mnh)+1:
+            val=-heapq.heappop(mxh)
+            heapq.heappush(mnh,val)
+        elif len(mnh)>len(mxh):
+            val=heapq.heappop(mnh)
+            heapq.heappush(mxh,-val)
+        ans.append(-mxh[0])
+    print(*ans)
+    print()
