@@ -1,0 +1,14 @@
+Given an integer N, find the number of ways it can be expressed as the sum of the Kth powers of unique natural numbers.
+
+def count(n,k,sm,i):
+    if sm==n:
+        return 1 
+    if sm>n or i**k>n:
+        return 0 
+    add=count(n,k,sm+i**k,i+1)
+    remove=count(n,k,sm,i+1)
+    return add+remove 
+t=int(input())
+for _ in range(t):
+    n,k=map(int,input().split())
+    print(count(n,k,0,1))
