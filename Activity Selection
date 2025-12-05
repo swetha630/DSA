@@ -1,0 +1,16 @@
+Given a set of activities with start time and finish time, find the maximum number of non-overlapping activities.
+
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    st=list(map(int,input().split()))
+    ft=list(map(int,input().split()))
+    l=list(zip(st,ft))
+    c=1
+    l.sort(lambda x:x[1])
+    lf=l[0][1]
+    for s,f in l[1:]:
+        if(s>=lf):
+            c+=1
+            lf=f 
+    print(c)
