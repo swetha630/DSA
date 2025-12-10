@@ -1,0 +1,25 @@
+Given a matrix, find the number of ways to reach from the top-left cell to the right-bottom cell. At any step, from the current cell (i,j) you can either move to (i+1,j) or (i,j+1) or (i+1, j+1). Please note that certain cells are forbidden and cannot be used.
+
+mod=10**9+7
+t=int(input())
+for _ in range(t):
+    n,m,b=map(int,input().split())
+    dp=[[0]*(m+1) for _ in range(n+1)]
+    frbdn=set()
+    for _ in range(b):
+        i,j=map(int,input().split())
+        frbdn.add((i+1,j+1))
+    if (1,1) not in frbdn:
+        dp[1][1]=1
+    for i in range(1,n+1):
+        for j in range(1,m+1):
+            if((i,j) in frbdn or (i==1 and j==1)):
+                continue
+            if i==1:
+                dp[i][j]=dp[i][j-1]%mod
+            elif j==1:
+                dp[i][j]=dp[i-1][j]%mod
+            else:
+                dp[i][j]=(dp[i-1][j]+dp[i][j-1]+dp[i-1][j-1])%mod
+            
+    print(dp[n][m]%mod)
