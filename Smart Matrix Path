@@ -1,0 +1,23 @@
+Given a 2D matrix of size MxN. You have to start at some row in the first column and reach the last column. What is the maximum sum you can get along the path, given that from position (i, j), you can only move to (i, j+1) or (i+1, j+1) or (i-1, j+1). You can move from first row to last row and also from last row to first row.
+
+t=int(input())
+for _ in range(t):
+    m,n=map(int,input().split())
+    mat=[]
+    for _ in range(m):
+        l=list(map(int,input().split()))
+        mat.append(l)
+    dp=[[-10**15]*(n+1) for _ in range(m+1)]
+    for i in range(m):
+        dp[i][1]=mat[i][0]
+    for i in range(2,n+1):
+        for j in range(m):
+            first=(j-1+m)%m
+            last=(j+1)%m
+            dp[j][i]=mat[j][i-1]+max(dp[j][i-1],dp[first][i-1],dp[last][i-1])
+    mx=float('-inf')
+    for i in range(m):
+        if dp[i][n]>mx:
+            mx=dp[i][n]
+    print(mx)
+
