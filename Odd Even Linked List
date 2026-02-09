@@ -1,0 +1,29 @@
+Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        temp=head
+        odd=[]
+        even=[]
+        c=1
+        while temp:
+            if(c%2!=0):
+                odd.append(temp.val)
+            else:
+                even.append(temp.val)
+            temp=temp.next
+            c+=1
+
+        temp=head
+        for i in odd:
+            temp.val=i
+            temp=temp.next
+        for j in even:
+            temp.val=j
+            temp=temp.next
+        return head
