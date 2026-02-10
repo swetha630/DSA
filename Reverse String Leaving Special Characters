@@ -1,0 +1,19 @@
+Given a string A, composed of lowercase alphabets and special characters, your goal is to reverse the given string ensuring that the special characters retain their initial positions.
+
+t=int(input())
+for _ in range(t):
+    s=input()
+    ss=""
+    for ch in s:
+        if ch.isalpha():
+            ss+=ch 
+    ss=ss[::-1]
+    res=""
+    c=0
+    for i in range(len(s)):
+        if s[i].isalpha():
+            res+=ss[c]
+            c+=1
+        else:
+            res+=s[i]
+    print(res)
