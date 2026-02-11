@@ -1,0 +1,30 @@
+In the given string A, comprising letters, digits, and special characters, your objective is to generate the highest possible even number by eliminating duplicate digits.
+
+t=int(input())
+for _ in range(t):
+    s=input()
+    st=set()
+    for ch in s:
+        if ch.isdigit():
+            st.add(int(ch))
+    l=list(st)
+    if not l:
+        print(-1)
+        continue
+    l.sort()
+    mn=None
+    for i in l:
+        if i%2==0:
+            mn=i 
+            break 
+        
+    if mn is None:
+        print(-1)
+        continue
+    l.remove(mn)
+    l.sort(reverse=True)
+    res=""
+    for i in l:
+        res+=str(i)
+    res+=str(mn)
+    print(int(res))
