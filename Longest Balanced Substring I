@@ -1,0 +1,17 @@
+You are given a string s consisting of lowercase English letters.
+A substring of s is called balanced if all distinct characters in the substring appear the same number of times.
+Return the length of the longest balanced substring of s.
+
+from collections import Counter
+class Solution:
+    def longestBalanced(self, s: str) -> int:
+        l=len(s)
+        mx=1
+        for i in range(l):
+            for j in range(i,l):
+                sub=s[i:j+1]
+                c=counter(sub)
+                l=len(set(c.values()))
+                if l==1:
+                    mx=max(mx,j-i+1)
+        return mx 
