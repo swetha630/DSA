@@ -1,0 +1,29 @@
+Given two binary strings a and b, return their sum as a binary string.
+
+class Solution:
+    def addBinary(self, a: str, b: str) -> str:
+        s1=s2=0
+        a=a[::-1]
+        b=b[::-1]
+        l1=len(a)
+        l2=len(b)
+        for i in range(l1):
+            if(a[i]=='1'):
+                s1+=2**i
+        for j in range(l2):
+            if(b[j]=='1'):
+                s2+=2**j
+        s=s1+s2
+        res=""
+        if s==0:
+            return "0"
+        while s>0:
+            rem=str(s%2)
+            res+=rem
+            s=s//2
+        return res[::-1]
+
+
+
+
+        
