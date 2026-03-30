@@ -1,0 +1,21 @@
+You are given two strings s1 and s2, both of length n, consisting of lowercase English letters.
+You can apply the following operation on any of the two strings any number of times:
+Choose any two indices i and j such that i < j and the difference j - i is even, then swap the two characters at those indices in the string.
+Return true if you can make the strings s1 and s2 equal, and false otherwise.
+
+class Solution:
+    def checkStrings(self, s1: str, s2: str) -> bool:
+        ev1,ev2="",""
+        od1,od2="",""
+        for i in range(len(s1)):
+            if(i%2==0):
+                ev1+=s1[i]
+                ev2+=s2[i]
+            else:
+                od1+=s1[i]
+                od2+=s2[i]
+        ev1=sorted(ev1)
+        ev2=sorted(ev2)
+        od1=sorted(od1)
+        od2=sorted(od2)
+        return ev1==ev2 and od1==od2
