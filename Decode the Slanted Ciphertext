@@ -1,0 +1,22 @@
+https://leetcode.com/problems/decode-the-slanted-ciphertext/
+
+class Solution:
+    def decodeCiphertext(self, encodedText: str, rows: int) -> str:
+        if rows == 1:
+            return encodedText 
+        n = len(encodedText)
+        cols = n // rows
+        mat = [[''] * cols for _ in range(rows)]
+        k = 0
+        for i in range(rows):
+            for j in range(cols):
+                mat[i][j] = encodedText[k]
+                k += 1
+        res = ""
+        for j in range(cols):
+            i, col = 0, j
+            while i < rows and col < cols:
+                res += mat[i][col]
+                i += 1
+                col += 1
+        return res.rstrip()
