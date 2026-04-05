@@ -1,0 +1,20 @@
+https://leetcode.com/problems/robot-return-to-origin/
+
+
+class Solution:
+    def judgeCircle(self, moves: str) -> bool:
+        cu=0
+        cr=0
+        for i in moves:
+            if i=="U":
+                cu+=1
+            if i=="D":
+                cu-=1
+            if i=="R":
+                cr+=1
+            if i=="L":
+                cr-=1
+        if cr==0 and cu==0:
+            return True 
+        else:
+            return False
