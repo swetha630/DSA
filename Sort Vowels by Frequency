@@ -1,0 +1,38 @@
+https://leetcode.com/contest/weekly-contest-499/problems/sort-vowels-by-frequency/
+
+
+class Solution:
+    def sortVowels(self, s: str) -> str:
+        f={}
+        pos={}
+        for i,val in enumerate(s):
+            if val in "aeiou":
+                f[val]=f.get(val,0)+1
+                if val not in pos:
+                    pos[val]=i 
+        vow=sorted(f.keys(),key=lambda x:(-f[x],pos[x]))
+        vl=[]
+        for v in vow:
+            vl.extend(v*f[v])
+        res=[]
+        k=0
+        for ch in s:
+            if ch in "aeiou":
+                res.append(vl[k])
+                k+=1
+            else:
+                res.append(ch)
+        return "".join(res)
+
+
+
+
+
+
+
+
+
+
+
+        
+                ©leetcode
