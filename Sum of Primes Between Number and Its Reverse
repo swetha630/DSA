@@ -1,0 +1,24 @@
+https://leetcode.com/contest/weekly-contest-500/problems/sum-of-primes-between-number-and-its-reverse/
+
+class Solution:
+    def sumOfPrimesInRange(self, n: int) -> int:
+        rev=0
+        temp=n
+        while n>0:
+            rem=n%10
+            rev=rev*10+rem
+            n=n//10
+        diff=abs(n-rev)
+        mn=min(temp,rev)
+        mx=max(temp,rev)
+        p=[True]*(mx+1)
+        p[0]=p[1]=False
+        for i in range(2,int(mx**0.5)+1):
+            if p[i]:
+                for j in range(i*i,mx+1,i):
+                    p[j]=False
+        sm=0
+        for j in range(mn,mx+1):
+            if p[j]:
+                sm+=j 
+        return sm©leetcode
