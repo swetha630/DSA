@@ -1,0 +1,31 @@
+https://leetcode.com/contest/weekly-contest-501/problems/count-valid-word-occurrences/
+
+from collections import Counter
+class Solution:
+    def countWordOccurrences(self, chunks: list[str], queries: list[str]) -> list[int]:
+        s = ""
+        for i in chunks:
+            s += i
+        l = []
+        word = ""
+        n = len(s)
+        for i in range(n):
+            ch = s[i]
+            if 'a' <= ch <= 'z':
+                word += ch
+            elif (ch == '-' and
+                  i > 0 and i < n - 1 and
+                  'a' <= s[i - 1] <= 'z' and
+                  'a' <= s[i + 1] <= 'z'):
+                word += ch
+            else:
+                if word:
+                    l.append(word)
+                    word = ""
+        if word:
+            l.append(word)
+        c=Counter(l)
+        res=[]
+        for q in queries:
+            res.append(c[q])
+        return res ©leetcode
