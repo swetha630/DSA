@@ -39,4 +39,12 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/swetha630/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/swetha630/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
