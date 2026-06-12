@@ -7,6 +7,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 ## Array
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swetha630/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -57,8 +58,13 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/swetha630/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/swetha630/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
