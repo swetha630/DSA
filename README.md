@@ -71,9 +71,11 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | ------- |
 | [0409-longest-palindrome](https://github.com/swetha630/DSA/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
+| [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
