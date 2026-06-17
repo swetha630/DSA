@@ -69,6 +69,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/swetha630/DSA/tree/master/0006-zigzag-conversion) |
 | [0409-longest-palindrome](https://github.com/swetha630/DSA/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
