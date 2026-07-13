@@ -51,6 +51,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/swetha630/DSA/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
