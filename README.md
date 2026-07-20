@@ -17,6 +17,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/swetha630/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
