@@ -1,0 +1,7 @@
+class Solution:
+    def validDigit(self, n: int, x: int) -> bool:
+        s=str(n)
+        if s[0]!=str(x):
+            if str(x) in s:
+                return True 
+        return False
