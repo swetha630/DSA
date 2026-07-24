@@ -115,4 +115,8 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetha630/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swetha630/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/swetha630/DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 <!---LeetCode Topics End-->
