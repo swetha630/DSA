@@ -20,6 +20,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/swetha630/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/swetha630/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/swetha630/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/swetha630/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
