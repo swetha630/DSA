@@ -7,7 +7,7 @@ class Solution:
             for j in range(9):
                 if board[i][j]!=".":
                     val=int(board[i][j])-1 
-                    bi=(i//3)*3+(j//3)
+                    bi=(i//3)+(j//3)*3
                     if r[i][val] or c[j][val] or b[bi][val]:
                         return False 
                     r[i][val]=c[j][val]=b[bi][val]=True 
