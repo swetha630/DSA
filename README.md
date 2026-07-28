@@ -37,6 +37,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetha630/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/swetha630/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swetha630/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/swetha630/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/swetha630/DSA/tree/master/3931-check-adjacent-digit-differences) |
@@ -118,6 +120,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/swetha630/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
 | ------- |
