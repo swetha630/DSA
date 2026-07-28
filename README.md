@@ -19,6 +19,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/swetha630/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -94,6 +95,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/swetha630/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Number Theory
 |  |
 | ------- |
