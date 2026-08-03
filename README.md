@@ -63,6 +63,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swetha630/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/swetha630/DSA/tree/master/3908-valid-digit-number) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/swetha630/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Dynamic Programming
@@ -114,12 +115,14 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/swetha630/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
 ## Counting Sort
 |  |
 | ------- |
