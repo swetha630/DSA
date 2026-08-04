@@ -21,6 +21,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/swetha630/DSA/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/swetha630/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/swetha630/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -64,6 +65,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/swetha630/DSA/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/swetha630/DSA/tree/master/3908-valid-digit-number) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/swetha630/DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Dynamic Programming
