@@ -21,6 +21,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/swetha630/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/swetha630/DSA/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/swetha630/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -77,6 +78,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | ------- |
 | [1291-sequential-digits](https://github.com/swetha630/DSA/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/swetha630/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Stack
 |  |
 | ------- |
