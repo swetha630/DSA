@@ -61,6 +61,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [1344-angle-between-hands-of-a-clock](https://github.com/swetha630/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetha630/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swetha630/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/swetha630/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/swetha630/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swetha630/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -77,6 +78,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/swetha630/DSA/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/swetha630/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/swetha630/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Stack
