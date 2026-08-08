@@ -121,6 +121,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/swetha630/DSA/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/swetha630/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
