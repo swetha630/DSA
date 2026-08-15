@@ -8,6 +8,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/swetha630/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/swetha630/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1288-remove-covered-intervals](https://github.com/swetha630/DSA/tree/master/1288-remove-covered-intervals) |
@@ -99,6 +100,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/swetha630/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/swetha630/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swetha630/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/swetha630/DSA/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
@@ -154,4 +156,5 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/swetha630/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/swetha630/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
