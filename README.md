@@ -51,6 +51,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/swetha630/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3794-reverse-string-prefix](https://github.com/swetha630/DSA/tree/master/3794-reverse-string-prefix) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/swetha630/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
@@ -124,6 +125,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swetha630/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/swetha630/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/swetha630/DSA/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
