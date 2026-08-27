@@ -10,6 +10,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0036-valid-sudoku](https://github.com/swetha630/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/swetha630/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/swetha630/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/swetha630/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1288-remove-covered-intervals](https://github.com/swetha630/DSA/tree/master/1288-remove-covered-intervals) |
@@ -77,6 +78,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/swetha630/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/swetha630/DSA/tree/master/0119-pascals-triangle-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
