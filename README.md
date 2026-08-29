@@ -38,6 +38,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swetha630/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swetha630/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/swetha630/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3536-maximum-product-of-two-digits](https://github.com/swetha630/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swetha630/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/swetha630/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/swetha630/DSA/tree/master/3895-count-digit-appearances) |
