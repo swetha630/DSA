@@ -72,6 +72,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swetha630/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/swetha630/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3790-smallest-all-ones-multiple](https://github.com/swetha630/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/swetha630/DSA/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/swetha630/DSA/tree/master/3895-count-digit-appearances) |
@@ -115,6 +116,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3790-smallest-all-ones-multiple](https://github.com/swetha630/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Linked List
 |  |
