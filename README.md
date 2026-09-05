@@ -28,6 +28,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/swetha630/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/swetha630/DSA/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/swetha630/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/swetha630/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/swetha630/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
@@ -106,6 +107,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3788-maximum-score-of-a-split](https://github.com/swetha630/DSA/tree/master/3788-maximum-score-of-a-split) |
 | [3903-smallest-stable-index-i](https://github.com/swetha630/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/swetha630/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
