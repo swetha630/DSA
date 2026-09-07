@@ -22,6 +22,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-score-of-a-split](https://github.com/swetha630/DSA/tree/master/3788-maximum-score-of-a-split) |
+| [3809-best-reachable-tower](https://github.com/swetha630/DSA/tree/master/3809-best-reachable-tower) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
