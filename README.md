@@ -73,6 +73,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3536-maximum-product-of-two-digits](https://github.com/swetha630/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swetha630/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/swetha630/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/swetha630/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/swetha630/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetha630/DSA/tree/master/3875-construct-uniform-parity-array-i) |
