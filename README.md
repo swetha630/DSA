@@ -21,6 +21,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swetha630/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-score-of-a-split](https://github.com/swetha630/DSA/tree/master/3788-maximum-score-of-a-split) |
 | [3809-best-reachable-tower](https://github.com/swetha630/DSA/tree/master/3809-best-reachable-tower) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
@@ -93,6 +94,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [1291-sequential-digits](https://github.com/swetha630/DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swetha630/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swetha630/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/swetha630/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Stack
 |  |
@@ -120,6 +122,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3790-smallest-all-ones-multiple](https://github.com/swetha630/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Linked List
@@ -137,6 +140,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swetha630/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/swetha630/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/swetha630/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/swetha630/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/swetha630/DSA/tree/master/3856-trim-trailing-vowels) |
