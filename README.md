@@ -14,6 +14,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swetha630/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0896-monotonic-array](https://github.com/swetha630/DSA/tree/master/0896-monotonic-array) |
 | [1288-remove-covered-intervals](https://github.com/swetha630/DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetha630/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/swetha630/DSA/tree/master/1732-find-the-highest-altitude) |
