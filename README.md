@@ -22,6 +22,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [1833-maximum-ice-cream-bars](https://github.com/swetha630/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swetha630/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swetha630/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/swetha630/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/swetha630/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swetha630/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -130,6 +131,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0859-buddy-strings](https://github.com/swetha630/DSA/tree/master/0859-buddy-strings) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/swetha630/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/swetha630/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3790-smallest-all-ones-multiple](https://github.com/swetha630/DSA/tree/master/3790-smallest-all-ones-multiple) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/swetha630/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
