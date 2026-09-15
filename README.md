@@ -126,6 +126,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0409-longest-palindrome](https://github.com/swetha630/DSA/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0859-buddy-strings](https://github.com/swetha630/DSA/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3790-smallest-all-ones-multiple](https://github.com/swetha630/DSA/tree/master/3790-smallest-all-ones-multiple) |
@@ -141,6 +142,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0409-longest-palindrome](https://github.com/swetha630/DSA/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0859-buddy-strings](https://github.com/swetha630/DSA/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swetha630/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
