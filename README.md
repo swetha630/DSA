@@ -15,6 +15,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swetha630/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/swetha630/DSA/tree/master/0896-monotonic-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/swetha630/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1288-remove-covered-intervals](https://github.com/swetha630/DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swetha630/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/swetha630/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -127,6 +128,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 | [0500-keyboard-row](https://github.com/swetha630/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/swetha630/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0859-buddy-strings](https://github.com/swetha630/DSA/tree/master/0859-buddy-strings) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/swetha630/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/swetha630/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3790-smallest-all-ones-multiple](https://github.com/swetha630/DSA/tree/master/3790-smallest-all-ones-multiple) |
@@ -162,6 +164,7 @@ A curated collection of Data Structures & Algorithms (DSA) practice problems wit
 ## Counting Sort
 |  |
 | ------- |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/swetha630/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/swetha630/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/swetha630/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swetha630/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
